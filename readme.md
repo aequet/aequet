@@ -9,6 +9,7 @@
 Im currently working on :
  - A Roblox multitool
  - Multiples roblox games
+ - A Roblox trading addon
  
  I created :
  - Aequet Trade Bot
